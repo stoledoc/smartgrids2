@@ -35,7 +35,7 @@ def main():
             "tipo_energia",
             "tipo_usuario",
             "nivel_tension_estrato",
-            "zona",
+#            "zona",
             "tipo_dia",
             "clima",
             "altitud"
